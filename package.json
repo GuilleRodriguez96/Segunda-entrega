@@ -1,0 +1,22 @@
+{
+  "name": "segunda.entrega",
+  "version": "1.0.0",
+  "description": "desafio sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilleRodriguez96/Segunda-entrega.git"
+  },
+  "author": "Guillermo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilleRodriguez96/Segunda-entrega/issues"
+  },
+  "homepage": "https://github.com/GuilleRodriguez96/Segunda-entrega#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
